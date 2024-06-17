@@ -10,10 +10,10 @@
 
 <br>
 
-<h3 align="left">⭐ Programming Languages Working💬</h3>
+<h3 align="left">⭐ Programming Languages and Tools💬</h3>
 
-| C | C++ | Python | HTML | CSS |
-|-----------|-----------|-----------|-----------|-----------|
+| C | C++ | Python | HTML | CSS | Django | Pandas | Numpy | SQL | PowerBI | MS EXCEl | VisualStudio Code | Jupyter | Canva| 
+|-----------|-----------|-----------|-----------|-----------|-----------|--------|-------|---------|-------|------------|-----------|-----------|-----------|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Android" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Android" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Android" width="40" height="40"/>|
 
 <br>
